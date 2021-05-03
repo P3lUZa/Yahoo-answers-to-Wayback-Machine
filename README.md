@@ -13,6 +13,6 @@ Then, the program will take each page and save it to the Wayback Machine of the 
 
 The program will also require a file named wayback_errors.txt and a file named wayback.txt
  
- 
+The program is specially useful if you have saved links from Pocket, Wallabag or any site agreggator
  
 #### The program uses the powerfull library savepagenow from pastpages
