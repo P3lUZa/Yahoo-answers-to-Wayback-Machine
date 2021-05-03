@@ -14,4 +14,4 @@ The program will also require a file named wayback_errors.txt and a file named w
 
 
 
-## The program uses the great library savepagenow from pastpages
+#### The program uses the powerfull library savepagenow from pastpages
