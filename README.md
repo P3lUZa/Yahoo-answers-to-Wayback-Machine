@@ -4,7 +4,9 @@
 
 Now that Yahoo! will close the answers site i created this program that takes a list of Yahoo answers 
 
-### python3 main.py
+.. code-block:: bash
+
+   $ python3 main.py
 
 Links should be in text file named "yahoo_links.txt" with the links in a list:    
  
