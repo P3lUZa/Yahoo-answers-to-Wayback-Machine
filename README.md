@@ -1,7 +1,12 @@
 # Yahoo-answers-to-Wayback-Machine
 
-Now that Yahoo! will close the answers site i created this program that takes a list of Yahoo answers links that should be in text file named "yahoo_links.txt" with the links in a list:  
-  
+
+
+Now that Yahoo! will close the answers site i created this program that takes a list of Yahoo answers 
+
+### python3 main.py
+
+Links should be in text file named "yahoo_links.txt" with the links in a list:    
  
 https://answers.yahoo.com/question/index?qid=[something]  
 https://answers.yahoo.com/question/index?qid=[something_2]  
