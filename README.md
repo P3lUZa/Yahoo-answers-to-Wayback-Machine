@@ -11,7 +11,7 @@ https://answers.yahoo.com/question/index?qid=[something_3]
    
 Then, the program will take each page and save it to the Wayback Machine of the Internet Archive
 
-The program will also require a file named wayback_errors.txt and a file named wayback.txt
+The program will save the errors (not saved links) in wayback_errors.txt and and the wayback machine links in wayback.txt
  
 The program is specially useful if you have saved links from Pocket, Wallabag or any site agreggator
  
